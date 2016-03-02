@@ -10,6 +10,7 @@
         "text": "React is *great*!"
     },
     {
+<<<<<<< HEAD
         "id": 1456842774711,
         "author": "matt",
         "text": "yeah tis great isnt it"
@@ -38,5 +39,10 @@
         "id": 1456914034498,
         "author": "asdf",
         "text": "fasdf"
+=======
+        "id": 1454231721280,
+        "author": "asdfs",
+        "text": "asdf"
+>>>>>>> 7491f8a8e54c0ebc23e5fd16c90b8534a2228d1e
     }
 ]
